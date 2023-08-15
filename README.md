@@ -1,34 +1,103 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![BSD 3-Clause License][license-shield]][license-url]
 
-## Getting Started
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/stbsragen">
+    <img src="docs/brand.png" alt="Sanjaya Thanry Bahtera (Sragen)" height="120">
+  </a>
 
+<h3 align="center">stbsragen-web</h3>
+
+  <p align="center">
+	Website of Sanjaya Thanry Bahtera (Sragen).
+    <br />
+    <a href="https://stbsragen.com/">Visit</a>
+  </p>
+</div>
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ul>
+    <li>
+      <a href="#about-stbsragen-web">About stbsragen-web</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</details>
+
+
+## About stbsragen-web
+
+**stbsragen-web** is front-end for website of Sanjaya Thanry Bahtera (Sragen). It built using Next.js.
+You can read the [official Next.js documentation](https://nextjs.org/docs).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Built With
+
+Powered by [Next.js](https://nextjs.org), written using [TypeScript](https://typescriptlang.org/).
+Styling are done using [TailwindCSS](https://tailwindcss.com).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## Usage
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with
+[`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying any `.tsx` inside `app` directory.
+The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to
+automatically optimize and load font.
 
-## Learn More
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This project is licensed under the BSD 3-Clause License. See [`LICENSE`](LICENSE) for more information.
 
-## Deploy on Vercel
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Authors
+
+| Author Name | Role | Contact |
+|-------------|------|---------|
+| **[danang-id](https://github.com/danang-id)** | Lead Maintainer | [@dananggaluht](https://x.com/dananggaluht) // [code-quality-control@danang.id](mailto:code-quality-control@danang.id) |
+
+
+Project Link: [https://github.com/stbsragen/stbsragen-web](https://github.com/stbsragen/stbsragen-web)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/danang-id/stbsragen-web.svg?style=for-the-badge
+[contributors-url]: https://github.com/danang-id/stbsragen-web/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/danang-id/stbsragen-web.svg?style=for-the-badge
+[forks-url]: https://github.com/danang-id/stbsragen-web/network/members
+[stars-shield]: https://img.shields.io/github/stars/danang-id/stbsragen-web.svg?style=for-the-badge
+[stars-url]: https://github.com/danang-id/stbsragen-web/stargazers
+[license-shield]: https://img.shields.io/github/license/danang-id/stbsragen-web.svg?style=for-the-badge
+[license-url]: https://github.com/danang-id/stbsragen-web/blob/master/LICENSE
