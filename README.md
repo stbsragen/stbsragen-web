@@ -83,9 +83,9 @@ This project is licensed under the BSD 3-Clause License. See [`LICENSE`](LICENSE
 
 ## Authors
 
-| Author Name | Role | Contact |
-|-------------|------|---------|
-| **[danang-id](https://github.com/danang-id)** | Lead Maintainer | [@dananggaluht](https://x.com/dananggaluht) // [code-quality-control@danang.id](mailto:code-quality-control@danang.id) |
+| Author Name                                   | Role            | Contact                                                                                                                 |
+|-----------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------|
+| **[danang-id](https://github.com/danang-id)** | Lead Maintainer | [@dananggaluht](https://x.com/dananggaluht)<br/>[code-quality-control@danang.id](mailto:code-quality-control@danang.id) |
 
 
 Project Link: [https://github.com/stbsragen/stbsragen-web](https://github.com/stbsragen/stbsragen-web)
@@ -93,11 +93,11 @@ Project Link: [https://github.com/stbsragen/stbsragen-web](https://github.com/st
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/danang-id/stbsragen-web.svg?style=for-the-badge
-[contributors-url]: https://github.com/danang-id/stbsragen-web/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/danang-id/stbsragen-web.svg?style=for-the-badge
-[forks-url]: https://github.com/danang-id/stbsragen-web/network/members
-[stars-shield]: https://img.shields.io/github/stars/danang-id/stbsragen-web.svg?style=for-the-badge
-[stars-url]: https://github.com/danang-id/stbsragen-web/stargazers
-[license-shield]: https://img.shields.io/github/license/danang-id/stbsragen-web.svg?style=for-the-badge
-[license-url]: https://github.com/danang-id/stbsragen-web/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/stbsragen/stbsragen-web.svg?style=for-the-badge
+[contributors-url]: https://github.com/stbsragen/stbsragen-web/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/stbsragen/stbsragen-web.svg?style=for-the-badge
+[forks-url]: https://github.com/stbsragen/stbsragen-web/network/members
+[stars-shield]: https://img.shields.io/github/stars/stbsragen/stbsragen-web.svg?style=for-the-badge
+[stars-url]: https://github.com/stbsragen/stbsragen-web/stargazers
+[license-shield]: https://img.shields.io/github/license/stbsragen/stbsragen-web.svg?style=for-the-badge
+[license-url]: https://github.com/stbsragen/stbsragen-web/blob/master/LICENSE
